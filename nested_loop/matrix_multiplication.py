@@ -1,0 +1,1 @@
+# 32. Matrix Multiplication: Write a Python program using nested loops to multiply two matrices.
